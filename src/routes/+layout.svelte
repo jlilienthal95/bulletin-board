@@ -4,4 +4,9 @@
 	let { children } = $props();
 </script>
 
-{@render children()}
+<div id="layoutCont" role="application" class="bg-[url(/bulletinbg.jpg)]">
+	<div id="header">
+
+	</div>
+	{@render children()}
+</div>
