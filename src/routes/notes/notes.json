@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "noteText": "Remember to submit the quarterly report by Friday afternoon. Double-check all financials before sending.",
+    "coordinates": { "x": 120, "y": 80 },
+    "tilt": "rotate-[2deg]"
+  },
+  {
+    "id": 2,
+    "noteText": "Call Jamie about the camera installation in Sector 3. Get confirmation on coverage zones.",
+    "coordinates": { "x": 200, "y": 150 },
+    "tilt": "-rotate-[1deg]"
+  },
+  {
+    "id": 3,
+    "noteText": "Buy snacks for the office fridge: sparkling water, fruit, and granola bars.",
+    "coordinates": { "x": 340, "y": 60 },
+    "tilt": "rotate-[1deg]"
+  },
+  {
+    "id": 4,
+    "noteText": "Team standup moved to 10am tomorrow. Don’t forget to update the calendar invite.",
+    "coordinates": { "x": 50, "y": 210 },
+    "tilt": "rotate-[0deg]"
+  },
+  {
+    "id": 5,
+    "noteText": "Sketch out wireframe ideas for the alert configuration panel. Prioritize clarity over options.",
+    "coordinates": { "x": 280, "y": 300 },
+    "tilt": "-rotate-[2deg]"
+  },
+  {
+    "id": 6,
+    "noteText": "Book a conference room for the demo walkthrough on Wednesday morning.",
+    "coordinates": { "x": 400, "y": 180 },
+    "tilt": "rotate-[3deg]"
+  },
+  {
+    "id": 7,
+    "noteText": "Investigate login errors from overseas users. Possibly a time zone offset issue.",
+    "coordinates": { "x": 160, "y": 320 },
+    "tilt": "-rotate-[3deg]"
+  },
+  {
+    "id": 8,
+    "noteText": "Water the office plants before the weekend. Snake plant near the front is looking dry.",
+    "coordinates": { "x": 70, "y": 400 },
+    "tilt": "rotate-[1deg]"
+  },
+  {
+    "id": 9,
+    "noteText": "Update your GitHub bio with the new component library link and recent work on Svaria.",
+    "coordinates": { "x": 500, "y": 250 },
+    "tilt": "rotate-[2deg]"
+  },
+  {
+    "id": 10,
+    "noteText": "Check in with legal about the updated terms of use—need approval before launch.",
+    "coordinates": { "x": 220, "y": 420 },
+    "tilt": "rotate-[0deg]"
+  }
+]
